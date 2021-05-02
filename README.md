@@ -1,4 +1,14 @@
 # python-api-challenge
+To run the WeatherPy.ipynb and VacationPy.ipynb notebooks
+create a api_keys.py file in the respective directories and add the weather API key 
+and google API key as follows.
+# api_keys.py
+
+# OpenWeatherMap API Key
+weather_api_key = "YOUR KEY HERE!"
+
+# Google API Key
+g_key = "YOUR KEY HERE!"  
 
 
 Observation :
